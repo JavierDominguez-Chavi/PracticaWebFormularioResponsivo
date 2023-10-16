@@ -1,2 +1,2 @@
 # Practica3
-you can temporarily see the web result in: thechavi.azurewebsites.net
+You can temporarily view the web result at: thechavi.azurewebsites.net

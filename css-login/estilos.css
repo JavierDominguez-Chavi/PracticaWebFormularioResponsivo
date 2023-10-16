@@ -37,7 +37,7 @@ body {
 .lado-izquierdo {
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('fondo-login.jpg');
+    background-image: url('fondo-login.png');
     height: 100vh;
     min-height: 500px;
 }
